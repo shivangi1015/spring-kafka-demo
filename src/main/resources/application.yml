@@ -16,3 +16,6 @@ spring:
 myapp:
   kafka:
     topic: myKafkaTest
+    topic3: myKafkaTest3
+    topic4: myKafkaTest4
+    topic6: testTopic
